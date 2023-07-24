@@ -1,1 +1,1 @@
-# Deep_Learning_for_NLP
+# Deep Learning for Natural Language Processing
