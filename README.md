@@ -1,7 +1,9 @@
 # Deep Learning for Natural Language Processing
-This is a deep learning classifier trained on imdb reviews.
+:movie_camera:This is a deep learning classifier trained on imdb reviews.
 
-There are two types of reviews in the dataset. Positive and Negative.
+There are two types of reviews in the dataset:
+  - Positive :heavy_plus_sign:
+  - Negative :heavy_minus_sign:
 
 In the 4 different folders of this repository there are 4 different implementations of the classifier:
 - Logistic Regression
